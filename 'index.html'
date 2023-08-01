@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Band Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!--  The Eagles, an iconic rock band that has left an indelible mark on the music industry. With their unique blend of rock, country, and folk influences, The Eagles have soared to unparalleled heights, captivating audiences around the globe with their timeless classics and soulful harmonies. Formed in Los Angeles in the early 1970s, this Grammy-winning band has crafted an illustrious career filled with chart-topping hits and unforgettable performances. As you embark on this musical journey, prepare to be swept away by the enchanting melodies and poetic storytelling that have made The Eagles a beacon of musical brilliance for generations.
+
+ -->
+  <section id="intro">
+    <h1>Welcome to Our Band Portfolio</h1>
+    <p>...</p>
+  </section>
+
+  <!-- Add the biography and images of band members here -->
+  <section id="band-members">
+    <h2>Band Members</h2>
+    <div class="member">
+      <img src=""eagles_band.jpg"" alt="eagle band 1">
+      <p>Biography of Band Member 1 ...</p>
+    </div>
+    <div class="member">
+      <img src=""eagles_band.jpg"" alt="eagle band 2">
+      <p>Biography of Band Member 2 ...</p>
+    </div>
+    <!-- David,leteipa,mark,leshan -->
+  </section>
+</body>
+</html>
+
+
