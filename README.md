@@ -14,7 +14,7 @@ To set up the Eagle Music Band project locally, follow these steps:
 
 ###  link to live site on GitHub
 
-git@github.com:Davidle30/favoritemusicband.git
+https://github.com/Davidle30/favoritemusicband.git
 
 ### Copyright and License
 
